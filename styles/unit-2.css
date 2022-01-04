@@ -1,0 +1,49 @@
+.req-wrapper{
+    border-color: #fecd00;
+    border-width: 5px;
+    border-style: outset;
+    padding: 5px;
+    background-color: #006aa8;
+    color: azure;
+}
+
+.req-1 img{
+    width: 500px;
+    padding: 3px 0px;
+    padding-left: 50px;
+    
+}
+
+.req-2 > .txt-img{
+    display: flex;
+    justify-content: space-between;
+}
+
+.req-3 > .txt-img :nth-child(2){
+    text-align: end;
+}
+
+
+.req-3 > .txt-img{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    
+}
+
+.req-3 > .txt-img :nth-child(2){
+    
+    width: 100%;
+    padding-right: 20px;
+}
+
+.req-4 > .txt-img img {
+    width: 500px;
+}
+
+.req-4 > .txt-img {
+    display: flex;
+}
+
+.req-5 > .txt-img img{
+    width: 900px;
+}

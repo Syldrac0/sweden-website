@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.navigation-wrapper {
+    background-color:teal;
+    color: seashell;
+    margin: 0px;
+    padding: 60px 100px;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+.links-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-link a{
+    text-decoration: none;
+    color: seashell;
+}
+
+.links-wrapper > .nav-link a {
+    
+    color: seashell;
+    text-decoration: underline;
+    transition: 0.5s;
+}
+
+.links-wrapper > .nav-link a:hover {
+    color: #b88100;
+    letter-spacing: 2px;
+}
+
+
+.links-wrapper > .nav-link {
+    width: 70px;
+    text-align: center;
+}

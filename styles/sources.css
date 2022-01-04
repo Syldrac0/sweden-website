@@ -1,0 +1,20 @@
+.sources{
+    border-color: #fecd00;
+    border-width: 5px;
+    border-style: outset;
+    padding: 5px;
+    background-color: #006aa8;
+    color: azure;
+    padding-left: 5px;
+}
+
+
+
+div{
+    padding-left: 30px;
+}
+
+ p{
+    padding-left: 40px;
+}
+

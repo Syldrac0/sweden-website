@@ -1,0 +1,22 @@
+.req-wrapper{
+    border-color: #fecd00;
+    border-width: 5px;
+    border-style: outset;
+    padding:5px;
+    
+    background-color: #006aa8;
+    color: azure;
+}
+.req-wrapper :not(h1){
+    padding-left: 20px;
+}
+.req-wrapper p{
+    padding-left: 25px;
+}
+
+.req-wrapper > .req-1 > .logos{
+    width: 200px;
+}
+.req-wrapper > .req-2 img{
+    height: 250px;
+}

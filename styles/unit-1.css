@@ -1,0 +1,110 @@
+.req-wrapper{
+    border-color: #fecd00;
+    border-width: 5px;
+    border-style: outset;
+    padding: 5px;
+    background-color: #006aa8;
+    color: azure;
+}
+
+
+
+h1 {
+    padding: 0px 10px;
+    
+}
+
+.req-1 > .ex-header{
+    display: flex;
+}
+
+.req-1 > .ex-header img {
+    padding-right: 5px;
+}
+
+.req-2 h1 {
+    text-align: center; 
+}
+
+.req-2 img{
+    margin-top: 5px;
+    border: #fecd00;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.req-3 > .img{
+    
+    display: flex;
+    justify-content: center;
+   
+}
+.req-3 > .img img{
+    width :500px;
+    border: #fecd00;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.req-3 h1{
+    text-align: end;
+}
+
+.req-4{
+    display: flex;
+    
+}
+
+.req-4 > img {
+    margin-left: 10px;
+    border: #fecd00;
+    border-width: 3px;
+    border-style: solid;
+}
+.req-4 h1{
+    text-align: center;
+}
+
+.req-5 > .img-txt{
+    display: flex;
+    width: 500px;
+}
+
+.req-5 > .img-txt > .resource-chart{
+    border: #fecd00;
+    border-width: 3px;
+    border-style: solid;
+    margin-right: 5px;
+    width: 200px;
+}
+
+.req-6{
+    
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    
+
+}
+.req-6 > .txt h1{
+    padding-bottom: 30px;
+}
+.req-6 > .txt p{
+    margin-right: 0px;
+    width: 400px;
+}
+
+.req-6 img{
+    width: 385px;
+    height: 60%;
+    border: #fecd00;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.req-56{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}  

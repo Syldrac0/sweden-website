@@ -1,0 +1,51 @@
+.dropdown {
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+.dropbtn{
+    
+    color: seashell;
+    
+    
+    
+    
+    
+    
+    transition: 3s;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.dropbtn-text{
+    padding-right: 5px;
+}
+
+.dropdown-content{
+    display: grid;
+    justify-content: center;    
+    
+    padding-top: 5px;
+    visibility: hidden;
+    width: 70px;
+    
+    
+    transition: .2s;
+    
+}
+
+.dropdown-content a {
+    color: seashell;
+    padding-bottom: 5px;
+    text-decoration: none;
+    transition: .5s;
+}
+
+.dropdown-content a:hover{
+    color: #b88100;
+    letter-spacing: 2px;
+}
+
+
+

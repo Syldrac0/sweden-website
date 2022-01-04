@@ -1,0 +1,41 @@
+
+.req-wrapper{
+    border-color: #fecd00;
+    border-width: 5px;
+    border-style: outset;
+    padding:5px;
+    
+    background-color: #006aa8;
+    color: azure;
+}
+
+
+.req-wrapper > .req-1 > .content {
+    display: grid;
+    
+    grid-template-columns: 200px 450px;
+}
+
+.req-wrapper > .req-1 > .content p {
+    padding-right: 5px;
+}
+
+.req-2 > .content {
+    display: grid;
+    grid-template-columns: 400px 200px;
+}
+
+.req-3 img{
+    width: 600px;
+    height: 100%;
+}
+
+.req-4 img{
+    width: 1000px;
+    height: 100%;
+}
+
+.req-5 img{
+    width: 700px;
+    height: 100%;
+}
